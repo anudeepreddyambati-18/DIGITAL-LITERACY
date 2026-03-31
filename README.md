@@ -78,9 +78,11 @@ Created a Social Media Do’s and Don’ts checklist
 
  Files:  
  `task-4-email-etiquette/emails.txt`  
+ `task-4-email-etiquette/social-media-checklist.txt`
  
- 
- `task-4-email-etiquette/social-media-checklist.txt`  
+https://github.com/anudeepreddyambati-18/DIGITAL-LITERACY/blob/3e00191b91ecff68c368bf7e0b7cdd0d1fa415ea/TASK%204%20DEADLINE%20EXTENSION.txt
+https://github.com/anudeepreddyambati-18/DIGITAL-LITERACY/blob/3e00191b91ecff68c368bf7e0b7cdd0d1fa415ea/TASK%204%20%5BSOCIAL%20MEDIA%20CHECKLISTDO'S%5D.txt
+https://github.com/anudeepreddyambati-18/DIGITAL-LITERACY/blob/3e00191b91ecff68c368bf7e0b7cdd0d1fa415ea/TASK%204%20%5BSubject%20Application%20for%20Summer%20Internship%5D.txt
 
 
  Task 5 – Cybercrime Awareness
@@ -94,13 +96,15 @@ Created a Social Media Do’s and Don’ts checklist
  Files:  
  `task-5-cybercrime/casestudy.txt`  
  `task-5-cybercrime/prevention-checklist.txt`  
-
+ https://github.com/anudeepreddyambati-18/DIGITAL-LITERACY/blob/3e00191b91ecff68c368bf7e0b7cdd0d1fa415ea/TASK%205%20PHIISHING%20CASE%20STUDY.txt
+https://github.com/anudeepreddyambati-18/DIGITAL-LITERACY/blob/3e00191b91ecff68c368bf7e0b7cdd0d1fa415ea/TASK%205%20Stay%20Safe%20Online%20%E2%80%93%20Prevention%20Check.txt
 
 
 Project Report
 The detailed report of all tasks is included in the repository.
 
  File: `report/Project_Report.pdf`
+ 
 
 
 Tools & Platforms Used
