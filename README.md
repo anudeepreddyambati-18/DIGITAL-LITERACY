@@ -104,6 +104,7 @@ Project Report
 The detailed report of all tasks is included in the repository.
 
  File: `report/Project_Report.pdf`
+ https://github.com/anudeepreddyambati-18/DIGITAL-LITERACY/blob/ca590b11c7a8e11c9b8301f51cd102524804c4bb/DIGITAL%20LITERACY%20PROJECT%20REPORT.pdf
  
 
 
